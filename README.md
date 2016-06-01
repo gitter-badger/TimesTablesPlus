@@ -1,12 +1,2 @@
-Welcome to TimesTablePlus!
-This application is being completely re-written from top to bottom. We aim to have a beautiful UX experience and a meaningful way for people to learn the times tables. Our application is not geared toward children, but rather adult learners. We hope that by shipping this product we can help adult learners achieve more in math! 
+This branch holds our first version of TimeTablesPlus. I will admit that it was not very good and hastly made. Therefore, this branch is now retired and no longer considered advisable to download. However, we will keep this branch alive for anyone who may have contributed to it in the past. 
 
-Contribute:
-We could use your help! Currently we need some core developers to help with development. To help please establish communication with us on (TBA)
-
-Our Stack:
-Ruby 2.0: Very beutiful language(Yes, it can be used for things non web related)
-Shoes4: Nice GUI framework.
-
-Our Timeline:
-We are hoping for a July closed-beta release. August public release. We will start at 0.0.1-beta. (Previous versions are no longer considered canon as this will be a entirely new development from the scratch.) 
