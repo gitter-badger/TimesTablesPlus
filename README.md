@@ -1,3 +1,5 @@
+https://travis-ci.org/austinprog/TimesTablesPlus.svg?branch=master
+
 # Welcome to TimesTablePlus!
 This application is being completely re-written from top to bottom. We aim to have a beautiful UX experience and a meaningful way for people to learn the times tables. Our application is not geared toward children, but rather adult learners. We hope that by shipping this product we can help adult learners achieve more in math! 
 
